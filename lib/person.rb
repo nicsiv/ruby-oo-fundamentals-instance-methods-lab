@@ -9,8 +9,7 @@ class Person
   end
    
 
-  nicole = Person.new
-  nicole.talk
+  wolf = Person.new
+  wolf.talk
 
-  puts "hello"
 
