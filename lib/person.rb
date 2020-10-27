@@ -12,3 +12,5 @@ class Person
   nicole = Person.new
   nicole.talk
 
+  puts "hello"
+
